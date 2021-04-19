@@ -1,0 +1,19 @@
+/**
+ * Styles for the add-observation.html page 
+ */
+ .required
+ {
+     color: red;
+ }
+
+ #desc {
+    width: 65%; 
+ }
+
+ #name {
+    width: 65%; 
+}
+
+#email {
+    width: 65%; 
+}
